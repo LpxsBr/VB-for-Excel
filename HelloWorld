@@ -1,5 +1,5 @@
 linguist-vendored
-VBA linguist-vendored=true
+.vba linguist-vendored=true
 
 sub hello world()
 
