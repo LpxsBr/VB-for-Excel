@@ -1,3 +1,6 @@
+linguist-vendored
+VBA linguist-vendored=true
+
 sub hello world()
 
 MsgBox("Hello World!")
