@@ -1,4 +1,4 @@
-Attribute VB_Name = "Módulo1"
+Attribute VB_Name = "MÃ³dulo1"
 Sub finder()
 
 name = InputBox("Digite abaixo", "Finder Box", "", 100, 100)
