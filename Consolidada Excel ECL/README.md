@@ -4,6 +4,6 @@
 
 visual basic for applications used for excel workbooks
 
-<img heigth=160px src="https://user-images.githubusercontent.com/96118395/175592205-ce1abbba-c122-4d5e-bce6-0e03f4c04253.png">
+<img style="heigth=160px;" src="https://user-images.githubusercontent.com/96118395/175592205-ce1abbba-c122-4d5e-bce6-0e03f4c04253.png">
 
 
