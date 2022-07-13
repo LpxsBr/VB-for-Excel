@@ -2,7 +2,7 @@
 
 
 'serao usados para construção de suplementos
-'Arquivo deve ser salvo como .XLAM (suplemento de excel) e adicionado a pasta C:\Users\usuario\AppData\Roaming\Microsoft\AddIns
+'Arquivo deve ser salvo como .XLAM (suplemento de excel) e adicionado a pasta SuaRaizdeArquivosAqui\AppData\Roaming\Microsoft\AddIns
 
 'Para usar
 'Abra o excel
